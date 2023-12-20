@@ -1,0 +1,8 @@
+1 ARDUINO modelo NANO + cable usb
+1 modulo BLUETOOTH HC 05
+6 diodos LED de 5mm diametro, colores: Rojo, verde, amarillo, azul, blanco y naranja
+6 resistencias de 470 ohm, 1/4w
+1 metro cable utp de 1 hilo
+1 protooard de 800 puntos
+aplicacion gratuita en PLAYSTORE=> Bluetooino: Arduino Bluetooth
+link de la aplicacion APP: https://play.google.com/store/apps/details?id=strikesoftware.bluetooino
